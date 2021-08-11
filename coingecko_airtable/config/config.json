@@ -1,0 +1,15 @@
+{
+    "airtable": {
+        "API_key": "keyfHH7FdUwYirwtc",
+        "bases" : [
+            {
+                "base": "appt1ERbm7X880NQf",
+                "table": "Coingecko",
+                "view": "coingecko_view"
+            }
+        ]
+    },
+    "coingecko": {
+
+    }
+}
